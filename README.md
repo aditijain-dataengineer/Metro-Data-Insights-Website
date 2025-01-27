@@ -1,8 +1,11 @@
 Metro Data Insights Website
 
 •	Leveraged real-time metro data, historical metro data, user surveys and staff interviews to gather data and performed data profiling, data modelling and pre-processing on it.
+
 •	Engineered a data pipeline using python to join the databases, deriving important features from it to input into machine learning models, which were trained to produce predictive insights like expected crowd according to day or weather or time of day or during events.
+
 •	Created interactive visualizations using altair to showcase these information for the Newcastle metro users.
+
 •	Designed a website prototype using figma and tested the results with a sample demographic for user acceptance testing.
 
 
